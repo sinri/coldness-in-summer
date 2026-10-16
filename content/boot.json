@@ -1,0 +1,10 @@
+{
+  "lineDelayMs": 180,
+  "lines": [
+    {"text": "[  OK  ] Mounted compiled filesystem."},
+    {"text": "[  OK  ] Loaded {fileCount} files."},
+    {"text": "[  OK  ] Command interpreter ready ({commandCount} commands)."},
+    {"text": ""},
+    {"text": "旅人啊，欢迎你踏足这盛夏的寒地，探索愉快。", "delayMs": 260}
+  ]
+}
